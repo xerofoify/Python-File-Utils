@@ -20,3 +20,11 @@ def getSHA1(path):
 	path = getRelPath(path)	
 	checksum = sha1.new(path);
 	return checksum
+
+## This takes a passed path of a 
+## file name and returns a the file 
+## size of the passed file
+def getFileSize(path):
+	path = abspath(path)
+	fileSize = os.path.getsize(path)
+	return fileSize
