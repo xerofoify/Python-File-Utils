@@ -5,7 +5,7 @@ import os
 def getFileSize(path):
 	
 	if(os.path.isabs(path)):
-        	return os.path.getsize(path)
+		return os.path.getsize(path)
 	else:
-        	fn = os.path.join(os.path.dirname(__file__), path)
+		fn = os.path.join(os.path.dirname(__file__), path)
 		return os.path.getsize(fn)

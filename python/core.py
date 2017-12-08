@@ -23,5 +23,5 @@ def getSHA1(path):
 ## This takes a passed path and
 ## returns a file size in bytes
 def getSize(path):
-    path = os.stat(path)
-    return path.st_size
+	path = os.stat(path)
+	return path.st_size
