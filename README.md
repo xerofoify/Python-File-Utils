@@ -3,6 +3,10 @@
 This library allows a user to find various information about a file and it's given features.
 
 # Table of Contents
+* Installing Instructions
+* Running Tests
+* Contributers
+* License
 
 
 # Installion Instructions
@@ -10,8 +14,6 @@ In order to install this in Linux and Windows you must be using a version of pyt
 
 # Running Tests
 In order to run tests after cloning the repo from github, use your OS's command line to change directory to the cloned directory of the project. Afterwards just run pytest and the tests will run.
-
-# API Docs
 ## Contributers
 * Nicholas Krause *Initial and on-going maintenance* - [@xerofoify](https://github.com/xerofoify)
 * Sean Prashad *Wrote code for core libraries* - [@SeanPrashad](https://github.com/SeanPrashad)
