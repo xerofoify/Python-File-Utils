@@ -13,8 +13,9 @@ In order to run tests after cloning the repo from github, use your OS's command 
 
 # API Docs
 # Contributers
-@SeanPrashad - Helped with Fixing some issues including first version of getFileSize
-@msanchez5 - Fixed getFileSize to work with both absolute and relative paths
+*Initial and on-going maintenance* - [@xerofoify](https://github.com/xerofoify)
+*Initial and on-going maintenance* - [@SeanPrashad](https://github.com/SeanPrashad)
+*Initial and on-going maintenance* - [@msanchez5](https://github.com/msanchez5)
 # License
 The License for the program is MIT due to the issues with open source libraries and having to share 
 code back under ones like the GPL. Due to your project being based around the library, there are 
