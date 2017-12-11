@@ -15,7 +15,7 @@ In order to run tests after cloning the repo from github, use your OS's command 
 ## Contributers
 * Nicholas Krause *Initial and on-going maintenance* - [@xerofoify](https://github.com/xerofoify)
 * Sean Prashad *Wrote code for core libraries* - [@SeanPrashad](https://github.com/SeanPrashad)
-* Marvin Sanchez *Fixed and added new support for absolute paths - [@msanchez5](https://github.com/msanchez5)
+* Marvin Sanchez *Fixed and added new support for absolute paths* - [@msanchez5](https://github.com/msanchez5)
 
 # License
 The License for the program is MIT due to the issues with open source libraries and having to share 
