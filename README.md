@@ -1,2 +1,3 @@
-# Python-File-Utils
-This library allows people to lookup various information about files when writing file programs. This includes support for sha1/md5 checksum lookup and various other features in the future.
+# Python-File-Utils [![Build Status](https://travis-ci.org/xerofoify/Python-File-Utils.svg?branch=master)](https://travis-ci.org/xerofoify/Python-File-Utils) 
+
+This library allows a user to find various information about a file and it's given features.
