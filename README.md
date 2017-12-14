@@ -3,7 +3,7 @@
 This library allows a user to find various information about a file and it's given features.
 
 # Table of Contents
-* Installing Instructions
+* [Installing Instructions](#installing-instructions)
 * Running Tests
 * Contributers
 * License
