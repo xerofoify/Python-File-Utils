@@ -18,7 +18,9 @@ In order to run tests after cloning the repo from github, use your OS's command 
 * Nicholas Krause *Initial and on-going maintenance* - [@xerofoify](https://github.com/xerofoify)
 * Sean Prashad *Wrote code for core libraries* - [@SeanPrashad](https://github.com/SeanPrashad)
 * Marvin Sanchez *Fixed and added new support for absolute paths* - [@msanchez5](https://github.com/msanchez5)
-
+# Contributing
+For Contributing to these repo you must use 8 character tabs and email me at xerofoify@gmail.com for a pull request.
+I will be doing pull requests directly until this project becomes too big and requires other maintainers.
 # License
 The License for the program is MIT due to the issues with open source libraries and having to share 
 code back under ones like the GPL. Due to your project being based around the library, there are 
