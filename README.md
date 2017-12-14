@@ -4,9 +4,9 @@ This library allows a user to find various information about a file and it's giv
 
 # Table of Contents
 * [Installing Instructions](#installing-instructions)
-* Running Tests
-* Contributers
-* License
+* [Running Tests](#running-tests)
+* [Contributing](#contributing)
+* [License](#license)
 
 
 # Installion Instructions
